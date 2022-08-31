@@ -5,7 +5,7 @@ Movies = ['12 Monkeys','21 Jump Street','22 Jump Street','American Psycho','An A
 
 Random_Movie = random.choice(Movies)
 
-TVShows = ['13 Reasons Why (2017)','Away (2020)','Brave New World (2020)','Breaking Bad (2008)','Brooklyn Nine-Nine (2013)','Containment (2016)','House M.D. (2004)','Inside Job (2021)','Invincible (2021)','Looking for Alaska (2019)','Lost in Space (2018)','Modern Family (2009)','Mr. Robot (2015)','Reacher (2022)','Rick and Morty (2013)','Silicon Valley (2014)','Space Force (2020)','The Big Bang Theory (2007)','The IT Crowd (2006)','The Office (2005)','Upload (2020)','Futurama (1999)']
+TVShows = ['13 Reasons Why (2017)','Away (2020)','Brave New World (2020)','Breaking Bad (2008)','Brooklyn Nine-Nine (2013)','Containment (2016)','House M.D. (2004)','Inside Job (2021)','Invincible (2021)','Looking for Alaska (2019)','Lost in Space (2018)','Modern Family (2009)','Mr. Robot (2015)','Reacher (2022)','Rick and Morty (2013)','Silicon Valley (2014)','Space Force (2020)','The Big Bang Theory (2007)','The IT Crowd (2006)','The Office (2005)','Upload (2020)','Futurama (1999)','Parks and Recreation (2009)']
 
 Random_TVShow = random.choice(TVShows)
 
